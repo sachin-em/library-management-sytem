@@ -182,7 +182,7 @@
                 <button class="fb">Facebook</button>
                 <button class="gl">Google</button>
             </div>
-            <p>New User? <a href="#">Create an account</a></p>
+            <p>New User? <a href="signup.php">Create an account</a></p>
         </form>
 
     </div>
